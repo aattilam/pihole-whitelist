@@ -7,8 +7,8 @@ akamaized.net
 amazonaws.com
 android.clients.google.com
 api.ipify.org
-api.rlje.net
 app-api.ted.com
+api.rlje.net
 appleid.apple.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
@@ -38,6 +38,12 @@ cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
 cse.google.com
 ctldl.windowsupdate.com
+cws.conviva.com
+livepassdl.conviva.com
+zee.cws.conviva.com
+pings.conviva.com
+gfwsl.geforce.com
+appspot-preview.l.google.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
@@ -175,15 +181,9 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
-youtu.be
 youtube-nocookie.com
+youtu.be
 yt3.ggpht.com
-zee.cws.conviva.com
-pings.conviva.com
-cws.conviva.com
-livepassdl.conviva.com
-gfwsl.geforce.com
-appspot-preview.l.google.com
 vidtech.cbsinteractive.com
 continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
@@ -228,3 +228,5 @@ ow.ly
 www.ow.ly
 amzn.to
 amzn.com
+player.vimeo.com
+tags.tiqcdn.com
